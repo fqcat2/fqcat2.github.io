@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fqcat2.github.io</id>
+    <title>翻墙猫</title>
+    <updated>2023-06-14T03:07:31.660Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fqcat2.github.io"/>
+    <link rel="self" href="https://fqcat2.github.io/atom.xml"/>
+    <subtitle>2023年最新机场推荐</subtitle>
+    <logo>https://fqcat2.github.io/images/avatar.png</logo>
+    <icon>https://fqcat2.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 翻墙猫</rights>
+    <entry>
+        <title type="html"><![CDATA[Clash电脑版 使用教程]]></title>
+        <id>https://fqcat2.github.io/post/clash-dian-nao-ban-shi-yong-jiao-cheng/</id>
+        <link href="https://fqcat2.github.io/post/clash-dian-nao-ban-shi-yong-jiao-cheng/">
+        </link>
+        <updated>2023-06-13T03:39:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="启动">启动</h2>
+<p>首次启动 Clash for Windows 后会出现下图所示界面代表启动成功：</p>
+<figure data-type="image" tabindex="1"><img src="https://i.imgloc.com/2023/06/13/VHeTWJ.png" alt="" loading="lazy"></figure>
+<h2 id="导入配置文件">导入配置文件</h2>
+<p>导入配置文件有如下两个途径：</p>
+<ol>
+<li>URL 导入</li>
+<li>本地文件拖拽导入</li>
+</ol>
+<p>一般情况下，URL 及配置文件都由<a href="https://6o6.me/my">服务商</a>提供复制或下载</p>
+<h2 id="url-导入">URL 导入</h2>
+<p>点击界面左侧菜单 Profiles，在顶部输入框填入 URL 并点击 Download 即可，下载完成后点击对应的配置文件即可载入</p>
+<figure data-type="image" tabindex="2"><img src="https://i.imgloc.com/2023/06/13/VHeuhV.png" alt="" loading="lazy"></figure>
+<h2 id="节点选择">节点选择</h2>
+<p>导入配置文件之后，“代理”里面就会出现节点，尽量选择延迟较低的节点，不过延迟并不代表速度</p>
+<figure data-type="image" tabindex="3"><img src="https://i.imgloc.com/2023/06/13/VHzAkw.png" alt="" loading="lazy"></figure>
+<h2 id="打开系统代理">打开系统代理</h2>
+<p>选择好节点之后，即可回到“常规”，打开“系统代理”按钮，就能成功魔法上网了</p>
+<figure data-type="image" tabindex="4"><img src="https://i.imgloc.com/2023/06/13/VHztAk.png" alt="" loading="lazy"></figure>
+<h2 id="稳定服务商">稳定服务商：</h2>
+<p><a href="https://6o6.me/my">[最萌の云] 9.9元100G套餐，流媒体解锁稳定高速！</a></p>
+<p><a href="https://6o6.me/qs">[青森云]免费试用，隧道、IPLC专线节点，原生IP支持流媒体</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机场翻墙常见问题解答]]></title>
+        <id>https://fqcat2.github.io/post/ji-chang-fan-qiang-chang-jian-wen-ti-jie-da/</id>
+        <link href="https://fqcat2.github.io/post/ji-chang-fan-qiang-chang-jian-wen-ti-jie-da/">
+        </link>
+        <updated>2023-06-10T03:04:36.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>如何才能在机场无法访问的网站上翻墙？<br>
+答：可以使用VPN、代理服务器等方式翻墙，这些工具可以绕过机场网络的限制。</p>
+</li>
+<li>
+<p>翻墙需要注意哪些安全问题？<br>
+答：翻墙时需要注意安全问题，保护个人隐私和信息安全。使用正规的翻墙工具、不要随意下载软件及插件、谨慎使用免费翻墙工具，都是需要注意的问题。</p>
+</li>
+<li>
+<p>是否有免费的翻墙工具可以使用？<br>
+答：目前市面上确实有许多免费的翻墙工具，但是使用这些工具需要注意安全问题。建议选择正规的翻墙服务商进行购买使用。</p>
+</li>
+<li>
+<p>翻墙服务需要付费吗？价格如何？<br>
+答：正规的翻墙服务商需要收取费用，根据月使用流量计费。价格因不同服务商而异，一般在几十元到几百元之间。</p>
+</li>
+<li>
+<p>使用翻墙服务会影响网络速度吗？<br>
+答：使用翻墙服务会消耗一定的带宽和网络资源，对网络速度会有一定影响。但是正规的翻墙服务商会提供高速稳定的网络资源，不会对网络速度造成过大影响。</p>
+</li>
+<li>
+<p>翻墙是否违法？<br>
+答：在一些国家和地区，翻墙是违法行为。但是在一些国家和地区，翻墙是合法的。需要根据当地的法律情况进行判断，确保自己在合法范围内使用翻墙服务。</p>
+</li>
+<li>
+<p>翻墙是否会被跟踪？<br>
+答：翻墙是可以被跟踪的，但是使用正规的翻墙服务商可以保护个人隐私和信息安全，降低被跟踪的风险。</p>
+</li>
+<li>
+<p>翻墙是否会影响电脑的安全？<br>
+答：使用不安全的翻墙工具会对电脑的安全造成威胁，可能会导致电脑感染病毒或者遭受黑客攻击。使用正规的翻墙服务商可以降低安全风险。</p>
+</li>
+<li>
+<p>翻墙是否能够解决所有问题？<br>
+答：翻墙并不能解决所有问题，比如涉及到政策、法律等问题，翻墙也不能保证绝对的隐私和安全。</p>
+</li>
+<li>
+<p>翻墙会不会影响到其他人？<br>
+答：在使用翻墙服务时需要注意不要给周围的其他人带来不必要的麻烦，尤其是在公共场合使用翻墙服务应注意场合和影响。</p>
+</li>
+</ol>
+<h2 id="稳定服务商">稳定服务商：</h2>
+<p><a href="https://6o6.me/my">[最萌の云] 9.9元100G套餐，流媒体解锁稳定高速！</a></p>
+<p><a href="https://6o6.me/qs">[青森云]免费试用，隧道、IPLC专线节点，原生IP支持流媒体</a></p>
+]]></content>
+    </entry>
+</feed>
